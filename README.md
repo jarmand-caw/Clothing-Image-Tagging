@@ -9,3 +9,6 @@ Goal was to take a messy fashion dataset given by a company with (sometimes mult
 
 ## Presentation
 - Powerpoint file summarizing results and showing cool extras like being able to identify similar items of clothing by using the net outputs as an embedding
+
+## nets.py
+- Necessary as you need to import each net class in order to load the pretrained models
